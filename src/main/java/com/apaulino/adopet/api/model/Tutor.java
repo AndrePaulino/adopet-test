@@ -81,4 +81,8 @@ public class Tutor {
         return adocoes;
     }
 
+    public void setAdocoes(List<Adocao> adocoes) {
+        this.adocoes = adocoes;
+    }
+
 }
